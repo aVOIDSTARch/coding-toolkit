@@ -1,13 +1,21 @@
 // Dictionary API servers and related functions
-
 import { ApiEndpoint } from './api-endpoint';
 import { fetchApiData } from './api-endpoint';
 
-interface DictionaryRequest  {
+// Import API keys from environment variables
+import dotenv from 'dotenv';
+dotenv.config({ path: '/Users/louisc/coding-toolkit/env-files/api-keys/.env-dictionary-apis' });
+// Actual key constants
+const MERRIAM_WEBSTER_COLLEGIATE_KEY = process.env.MERRIAM_WEBSTER_COLLEGIATE_KEY || '';
+const MERRIAM_WEBSTER_HIGH_SCHOOL_KEY = process.env.MERRIAM_WEBSTER_HIGH_SCHOOL_KEY || '';
+
+// ##### GENERIC DICTIONARY API TYPES #####
+// Generic Dictionary Request interface
+interface DictionaryRequest {
     endpoint: ApiEndpoint;
     queryParam: string;
 };
-
+// Word Definition interface
 export interface WordDefinition {
     word: string;
     definition: string;
@@ -90,12 +98,59 @@ async function getDefinitionOpenDictionary(word: string): Promise<WordDefinition
 // Exports for Open Dictionary API
 export { openDictionaryApi, getDefinitionOpenDictionary };
 
+// ##### MERRIAM-WEBSTER DICTIONARY API IMPLEMENTATIONS #####
 
+// Merriam-Webster Collegiate Dictionary API endpoint definition //
+const merriamWebsterCollegiateApi: ApiEndpoint = {
+    name: 'Merriam-Webster Collegiate Dictionary API',
+    category: 'Dictionary',
+    url: `https://www.dictionaryapi.com/api/v3/references/collegiate/json/\${word}?key=${MERRIAM_WEBSTER_COLLEGIATE_KEY}`,
+    method: 'GET',
+    description: 'Fetches definitions from the Merriam-Webster Collegiate Dictionary API. Replace {word} with the desired term.'
+};
 
+// Merriam-Webster High School Dictionary API endpoint definition //
+const merriamWebsterHighSchoolApi: ApiEndpoint = {
+    name: 'Merriam-Webster High School Dictionary API',
+    category: 'Dictionary',
+    url: `https://www.dictionaryapi.com/api/v3/references/highschool/json/\${word}?key=${MERRIAM_WEBSTER_HIGH_SCHOOL_KEY}`,
+    method: 'GET',
+    description: 'Fetches definitions from the Merriam-Webster High School Dictionary API. Replace {word} with the desired term.'
+};
 
+// Function to build the Merriam-Webster URL
+function merriamWebsterUrlBuilder(word: string, isCollegiate: boolean): string {
+    const api = isCollegiate ? merriamWebsterCollegiateApi : merriamWebsterHighSchoolApi;
+    return api.url.replace('${word}', encodeURIComponent(word));
+}
 
+// Function to extract definition from Merriam-Webster API response
+function getDefinitionFromMerriamWebsterData(jsonData: any): string {
+    if (Array.isArray(jsonData) && jsonData.length > 0) {
+        const firstEntry = jsonData[0];
+        if (firstEntry.shortdef && firstEntry.shortdef.length > 0) {
+            return firstEntry.shortdef[0];
+        }
+    }
+    return `No definition found!`;
+}
+
+// Function to get definition from Merriam-Webster API
+async function getDefinitionMerriamWebster(word: string, isCollegiate: boolean): Promise<WordDefinition> {
+    const dictRequest: DictionaryRequest = {
+        endpoint: isCollegiate ? merriamWebsterCollegiateApi : merriamWebsterHighSchoolApi,
+        queryParam: word
+    };
+    const urlBuilder = (w: string) => merriamWebsterUrlBuilder(w, isCollegiate);
+    return getDefinitionWithDictionaryRequest(dictRequest, urlBuilder, getDefinitionFromMerriamWebsterData);
+}
+
+// Exports for Merriam-Webster API
+export { merriamWebsterCollegiateApi, merriamWebsterHighSchoolApi, getDefinitionMerriamWebster };
+
+// ##### GENERIC FUNCTION TO HANDLE DICTIONARY REQUESTS #####
 // Generic function to get definition using a DictionaryRequest
-async function getDefinitionWithDictionaryRequest(dictRequest: DictionaryRequest, urlBuilder: Function,definitionParser: Function): Promise<WordDefinition> {
+async function getDefinitionWithDictionaryRequest(dictRequest: DictionaryRequest, urlBuilder: Function, definitionParser: Function): Promise<WordDefinition> {
     const word = dictRequest.queryParam;
     const endpointWithWord: ApiEndpoint = {
         ...dictRequest.endpoint,
@@ -114,8 +169,3 @@ async function getDefinitionWithDictionaryRequest(dictRequest: DictionaryRequest
     };
     return definition;
 }
-
-
-
-
-// Open Dictionary API implementation
