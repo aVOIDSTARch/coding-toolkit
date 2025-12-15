@@ -5,7 +5,6 @@
       "category": "animals",
       "url": "https://catfact.ninja/fact",
       "method": "GET",
-      "contentType": "application/json",
       "description": "Returns a random cat fact"
     },
     {
@@ -13,7 +12,6 @@
       "category": "animals",
       "url": "https://dog.ceo/api/breeds/image/random",
       "method": "GET",
-      "contentType": "application/json",
       "description": "Returns a random dog image URL"
     },
     {
@@ -21,7 +19,6 @@
       "category": "entertainment",
       "url": "https://api.chucknorris.io/jokes/random",
       "method": "GET",
-      "contentType": "application/json",
       "description": "Returns a random Chuck Norris joke"
     },
     {
@@ -29,7 +26,6 @@
       "category": "data",
       "url": "https://randomuser.me/api/",
       "method": "GET",
-      "contentType": "application/json",
       "description": "Generates random user data"
     },
     {
@@ -37,7 +33,6 @@
       "category": "testing",
       "url": "https://jsonplaceholder.typicode.com/posts",
       "method": "GET",
-      "contentType": "application/json",
       "description": "Returns fake blog posts for testing"
     }
   ]

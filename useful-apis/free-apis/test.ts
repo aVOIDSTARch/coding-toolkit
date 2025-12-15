@@ -12,7 +12,6 @@ const testEndpoint: ApiEndpoint = {
     category: 'Testing',
     url: 'https://jsonplaceholder.typicode.com/posts/1',
     method: 'GET',
-    contentType: 'application/json',
     description: 'A test API endpoint'
 };
 

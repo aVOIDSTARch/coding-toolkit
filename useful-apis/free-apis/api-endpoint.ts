@@ -15,8 +15,8 @@ export interface ApiEndpoint {
     category: string;
     url: string;
     method: 'GET' | 'POST' | 'PUT' | 'DELETE';
-    contentType: string;
     description?: string;
+    headers?: Record<string, string>;
 }
 
 //Type definition for API Collection
@@ -34,11 +34,13 @@ export function buildApiEndpointCollection(filePathDir: string = apiFilePath, fi
 
 //Function to fetch data from an API endpoint
 export function fetchApiData(endpoint: ApiEndpoint): Promise<Response> {
-    return fetch(endpoint.url, {
+    const headers: Record<string, string> = {
+        'User-Agent': 'FreeApisClient/1.0',
+        ...endpoint.headers
+    };
+    return fetch(endpoint.url(), {
         method: endpoint.method,
-        headers: {
-            'Content-Type': endpoint.contentType
-        }
+        headers
     });
 }
 // Function to write API endpoint data to a file
