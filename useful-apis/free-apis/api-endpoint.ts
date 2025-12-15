@@ -10,7 +10,7 @@ export const apiFilePath: string = __dirname;
 export const apiFileName: string = 'api-endpoints.json';
 
 // Type definition for an API endpoint
-export type ApiEndpoint = {
+export interface ApiEndpoint {
     name: string;
     category: string;
     url: string;
