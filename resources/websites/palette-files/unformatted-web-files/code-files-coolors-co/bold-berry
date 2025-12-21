@@ -1,0 +1,29 @@
+- CSV
+
+f9dbbd,ffa5ab,da627d,a53860,450920
+
+- With #
+
+#f9dbbd, #ffa5ab, #da627d, #a53860, #450920
+
+- Array
+
+["f9dbbd","ffa5ab","da627d","a53860","450920"]
+
+- Object
+
+{"Soft Apricot":"f9dbbd","Cotton Candy":"ffa5ab","Blush Rose":"da627d","Berry Crush":"a53860","Night Bordeaux":"450920"}
+
+- Extended Array
+
+[{"name":"Soft Apricot","hex":"f9dbbd","rgb":[249,219,189],"cmyk":[0,12,24,2],"hsb":[30,24,98],"hsl":[30,83,86],"lab":[89,6,19]},{"name":"Cotton Candy","hex":"ffa5ab","rgb":[255,165,171],"cmyk":[0,35,33,0],"hsb":[356,35,100],"hsl":[356,100,82],"lab":[77,34,11]},{"name":"Blush Rose","hex":"da627d","rgb":[218,98,125],"cmyk":[0,55,43,15],"hsb":[347,55,85],"hsl":[347,62,62],"lab":[57,50,8]},{"name":"Berry Crush","hex":"a53860","rgb":[165,56,96],"cmyk":[0,66,42,35],"hsb":[338,66,65],"hsl":[338,49,43],"lab":[41,48,1]},{"name":"Night Bordeaux","hex":"450920","rgb":[69,9,32],"cmyk":[0,87,54,73],"hsb":[337,87,27],"hsl":[337,77,15],"lab":[13,30,2]}]
+
+- XML
+
+<palette>
+  <color name="Soft Apricot" hex="f9dbbd" r="249" g="219" b="189" />
+  <color name="Cotton Candy" hex="ffa5ab" r="255" g="165" b="171" />
+  <color name="Blush Rose" hex="da627d" r="218" g="98" b="125" />
+  <color name="Berry Crush" hex="a53860" r="165" g="56" b="96" />
+  <color name="Night Bordeaux" hex="450920" r="69" g="9" b="32" />
+</palette>

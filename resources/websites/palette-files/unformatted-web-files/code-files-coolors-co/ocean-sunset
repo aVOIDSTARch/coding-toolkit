@@ -1,0 +1,29 @@
+- CSV
+
+001427,708d81,f4d58d,bf0603,8d0801
+
+- With #
+
+#001427, #708d81, #f4d58d, #bf0603, #8d0801
+
+- Array
+
+["001427","708d81","f4d58d","bf0603","8d0801"]
+
+- Object
+
+{"Prussian Blue":"001427","Deep Teal":"708d81","Jasmine":"f4d58d","Brick Ember":"bf0603","Blood Red":"8d0801"}
+
+- Extended Array
+
+[{"name":"Prussian Blue","hex":"001427","rgb":[0,20,39],"cmyk":[100,49,0,85],"hsb":[209,100,15],"hsl":[209,100,8],"lab":[6,0,-15]},{"name":"Deep Teal","hex":"708d81","rgb":[112,141,129],"cmyk":[21,0,9,45],"hsb":[155,21,55],"hsl":[155,11,50],"lab":[56,-13,3]},{"name":"Jasmine","hex":"f4d58d","rgb":[244,213,141],"cmyk":[0,13,42,4],"hsb":[42,42,96],"hsl":[42,82,75],"lab":[86,1,40]},{"name":"Brick Ember","hex":"bf0603","rgb":[191,6,3],"cmyk":[0,97,98,25],"hsb":[1,98,75],"hsl":[1,97,38],"lab":[40,64,53]},{"name":"Blood Red","hex":"8d0801","rgb":[141,8,1],"cmyk":[0,94,99,45],"hsb":[3,99,55],"hsl":[3,99,28],"lab":[29,50,42]}]
+
+- XML
+
+<palette>
+  <color name="Prussian Blue" hex="001427" r="0" g="20" b="39" />
+  <color name="Deep Teal" hex="708d81" r="112" g="141" b="129" />
+  <color name="Jasmine" hex="f4d58d" r="244" g="213" b="141" />
+  <color name="Brick Ember" hex="bf0603" r="191" g="6" b="3" />
+  <color name="Blood Red" hex="8d0801" r="141" g="8" b="1" />
+</palette>

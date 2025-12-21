@@ -1,0 +1,29 @@
+- CSV
+
+606c38,283618,fefae0,dda15e,bc6c25
+
+- With #
+
+#606c38, #283618, #fefae0, #dda15e, #bc6c25
+
+- Array
+
+["606c38","283618","fefae0","dda15e","bc6c25"]
+
+- Object
+
+{"Olive Leaf":"606c38","Black Forest":"283618","Cornsilk":"fefae0","Sunlit Clay":"dda15e","Copperwood":"bc6c25"}
+
+- Extended Array
+
+[{"name":"Olive Leaf","hex":"606c38","rgb":[96,108,56],"cmyk":[11,0,48,58],"hsb":[74,48,42],"hsl":[74,32,32],"lab":[44,-14,27]},{"name":"Black Forest","hex":"283618","rgb":[40,54,24],"cmyk":[26,0,56,79],"hsb":[88,56,21],"hsl":[88,38,15],"lab":[21,-12,17]},{"name":"Cornsilk","hex":"fefae0","rgb":[254,250,224],"cmyk":[0,2,12,0],"hsb":[52,12,100],"hsl":[52,94,94],"lab":[98,-3,13]},{"name":"Sunlit Clay","hex":"dda15e","rgb":[221,161,94],"cmyk":[0,27,57,13],"hsb":[32,57,87],"hsl":[32,65,62],"lab":[71,15,43]},{"name":"Copperwood","hex":"bc6c25","rgb":[188,108,37],"cmyk":[0,43,80,26],"hsb":[28,80,74],"hsl":[28,67,44],"lab":[54,27,51]}]
+
+- XML
+
+<palette>
+  <color name="Olive Leaf" hex="606c38" r="96" g="108" b="56" />
+  <color name="Black Forest" hex="283618" r="40" g="54" b="24" />
+  <color name="Cornsilk" hex="fefae0" r="254" g="250" b="224" />
+  <color name="Sunlit Clay" hex="dda15e" r="221" g="161" b="94" />
+  <color name="Copperwood" hex="bc6c25" r="188" g="108" b="37" />
+</palette>

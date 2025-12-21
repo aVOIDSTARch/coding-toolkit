@@ -1,0 +1,29 @@
+- CSV
+
+283d3b,197278,edddd4,c44536,772e25
+
+- With #
+
+#283d3b, #197278, #edddd4, #c44536, #772e25
+
+- Array
+
+["283d3b","197278","edddd4","c44536","772e25"]
+
+- Object
+
+{"Dark Slate Grey":"283d3b","Stormy Teal":"197278","Powder Petal":"edddd4","Tomato Jam":"c44536","Chestnut":"772e25"}
+
+- Extended Array
+
+[{"name":"Dark Slate Grey","hex":"283d3b","rgb":[40,61,59],"cmyk":[34,0,3,76],"hsb":[174,34,24],"hsl":[174,21,20],"lab":[24,-9,-1]},{"name":"Stormy Teal","hex":"197278","rgb":[25,114,120],"cmyk":[79,5,0,53],"hsb":[184,79,47],"hsl":[184,66,28],"lab":[44,-23,-11]},{"name":"Powder Petal","hex":"edddd4","rgb":[237,221,212],"cmyk":[0,7,11,7],"hsb":[22,11,93],"hsl":[22,41,88],"lab":[89,4,6]},{"name":"Tomato Jam","hex":"c44536","rgb":[196,69,54],"cmyk":[0,65,72,23],"hsb":[6,72,77],"hsl":[6,57,49],"lab":[47,50,36]},{"name":"Chestnut","hex":"772e25","rgb":[119,46,37],"cmyk":[0,61,69,53],"hsb":[7,69,47],"hsl":[7,53,31],"lab":[29,31,22]}]
+
+- XML
+
+<palette>
+  <color name="Dark Slate Grey" hex="283d3b" r="40" g="61" b="59" />
+  <color name="Stormy Teal" hex="197278" r="25" g="114" b="120" />
+  <color name="Powder Petal" hex="edddd4" r="237" g="221" b="212" />
+  <color name="Tomato Jam" hex="c44536" r="196" g="69" b="54" />
+  <color name="Chestnut" hex="772e25" r="119" g="46" b="37" />
+</palette>
