@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "FCQUZHAA",
+        "name": "Chestnut",
+        "other-names": [
+            {
+                "name": "Chestnut",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "7",
+                    "g1": "2",
+                    "g2": "E",
+                    "b1": "2",
+                    "b2": "5",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 119,
+                    "g": 46,
+                    "b": 37
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 7,
+                    "s": 53,
+                    "l": 31
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 61,
+                    "y": 69,
+                    "k": 53
+                }
+            }
+        },
+        "description": "A red color from the Forest Hues palette."
+    }
+]

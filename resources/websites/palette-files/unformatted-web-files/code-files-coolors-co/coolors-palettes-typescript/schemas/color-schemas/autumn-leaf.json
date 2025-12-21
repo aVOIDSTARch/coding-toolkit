@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "WBEYDQAA",
+        "name": "Autumn Leaf",
+        "other-names": [
+            {
+                "name": "Autumn Leaf",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "3",
+                    "g1": "6",
+                    "g2": "4",
+                    "b1": "1",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 227,
+                    "g": 100,
+                    "b": 20
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 23,
+                    "s": 84,
+                    "l": 48
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 56,
+                    "y": 91,
+                    "k": 11
+                }
+            }
+        },
+        "description": "A orange color from the Fiery Palette palette."
+    }
+]

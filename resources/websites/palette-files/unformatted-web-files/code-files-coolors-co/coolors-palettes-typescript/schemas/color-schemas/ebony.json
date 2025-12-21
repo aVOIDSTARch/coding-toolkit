@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "VDJWBEAA",
+        "name": "Ebony",
+        "other-names": [
+            {
+                "name": "Ebony",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "1",
+                    "g1": "4",
+                    "g2": "8",
+                    "b1": "3",
+                    "b2": "3",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 65,
+                    "g": 72,
+                    "b": 51
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 80,
+                    "s": 17,
+                    "l": 24
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 10,
+                    "m": 0,
+                    "y": 29,
+                    "k": 72
+                }
+            }
+        },
+        "description": "A green color from the Warm Neutral Tones palette."
+    }
+]

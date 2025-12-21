@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const noMatterWhatPalette1.txt: Color[] = [{"name":"True Cobalt","hex":"1b248d","rgb":[27,36,141],"cmyk":[81,74,0,45],"hsb":[235,81,55],"hsl":[235,68,33],"lab":[22,36,-58]},{"name":"Grey","hex":"817f82","rgb":[129,127,130],"cmyk":[1,2,0,49],"hsb":[280,2,51],"hsl":[280,1,50],"lab":[53,1,-1]},{"name":"Pumpkin Spice","hex":"fa7921","rgb":[250,121,33],"cmyk":[0,52,87,2],"hsb":[24,87,98],"hsl":[24,96,55],"lab":[65,45,65]},{"name":"Deep Saffron","hex":"fe9920","rgb":[254,153,32],"cmyk":[0,40,87,0],"hsb":[33,87,100],"hsl":[33,99,56],"lab":[72,30,72]},{"name":"Platinum","hex":"edf2f4","rgb":[237,242,244],"cmyk":[3,1,0,4],"hsb":[197,3,96],"hsl":[197,24,94],"lab":[95,-1,-2]}];

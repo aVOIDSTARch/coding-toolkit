@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "U5X7XKAA",
+        "name": "Celadon",
+        "other-names": [
+            {
+                "name": "Celadon",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "5",
+                    "g1": "D",
+                    "g2": "5",
+                    "b1": "B",
+                    "b2": "2",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 149,
+                    "g": 213,
+                    "b": 178
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 147,
+                    "s": 43,
+                    "l": 71
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 30,
+                    "m": 0,
+                    "y": 16,
+                    "k": 16
+                }
+            }
+        },
+        "description": "A green color from the Fresh Greens palette."
+    }
+]

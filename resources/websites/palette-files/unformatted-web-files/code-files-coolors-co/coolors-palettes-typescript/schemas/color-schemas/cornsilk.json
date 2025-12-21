@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "AQ4R8RAA",
+        "name": "Cornsilk",
+        "other-names": [
+            {
+                "name": "Cornsilk",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "E",
+                    "g1": "F",
+                    "g2": "A",
+                    "b1": "E",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 254,
+                    "g": 250,
+                    "b": 224
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 52,
+                    "s": 94,
+                    "l": 94
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 2,
+                    "y": 12,
+                    "k": 0
+                }
+            }
+        },
+        "description": "A yellow color from the Soft Forest palette."
+    }
+]

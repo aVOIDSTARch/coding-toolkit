@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "77H8TRAA",
+        "name": "Linen",
+        "other-names": [
+            {
+                "name": "Linen",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "1",
+                    "g1": "E",
+                    "g2": "7",
+                    "b1": "D",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 241,
+                    "g": 231,
+                    "b": 221
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 30,
+                    "s": 42,
+                    "l": 91
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 4,
+                    "y": 8,
+                    "k": 5
+                }
+            }
+        },
+        "description": "A orange color from the Whispering Ivory Shore palette."
+    }
+]

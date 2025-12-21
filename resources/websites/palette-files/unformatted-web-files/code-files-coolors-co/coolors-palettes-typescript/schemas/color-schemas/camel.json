@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "EGLJGLAA",
+        "name": "Camel",
+        "other-names": [
+            {
+                "name": "Camel",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Orange Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "A",
+                    "r2": "6",
+                    "g1": "8",
+                    "g2": "A",
+                    "b1": "6",
+                    "b2": "4",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 166,
+                    "g": 138,
+                    "b": 100
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 35,
+                    "s": 27,
+                    "l": 52
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 17,
+                    "y": 40,
+                    "k": 35
+                }
+            }
+        },
+        "description": "A orange color from the Warm Neutral Tones palette."
+    }
+]

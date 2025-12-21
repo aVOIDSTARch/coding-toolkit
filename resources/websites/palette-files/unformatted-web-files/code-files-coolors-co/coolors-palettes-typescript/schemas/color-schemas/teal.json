@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "SKAJCAAA",
+        "name": "Teal",
+        "other-names": [
+            {
+                "name": "Teal",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "2",
+                    "g1": "8",
+                    "g2": "0",
+                    "b1": "9",
+                    "b2": "0",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 2,
+                    "g": 128,
+                    "b": 144
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 187,
+                    "s": 97,
+                    "l": 29
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 99,
+                    "m": 11,
+                    "y": 0,
+                    "k": 44
+                }
+            }
+        },
+        "description": "A blue color from the Turquoise Harmony palette."
+    }
+]

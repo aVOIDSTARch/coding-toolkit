@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "735ZFEAA",
+        "name": "Cerulean",
+        "other-names": [
+            {
+                "name": "Cerulean",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "4",
+                    "r2": "5",
+                    "g1": "7",
+                    "g2": "B",
+                    "b1": "9",
+                    "b2": "D",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 69,
+                    "g": 123,
+                    "b": 157
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 203,
+                    "s": 39,
+                    "l": 44
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 56,
+                    "m": 22,
+                    "y": 0,
+                    "k": 38
+                }
+            }
+        },
+        "description": "A blue color from the Muted American palette."
+    }
+]

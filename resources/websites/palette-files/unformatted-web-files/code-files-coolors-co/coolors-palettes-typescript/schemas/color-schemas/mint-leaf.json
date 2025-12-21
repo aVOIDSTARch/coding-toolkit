@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "43DNCAAA",
+        "name": "Mint Leaf",
+        "other-names": [
+            {
+                "name": "Mint Leaf",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "0",
+                    "r2": "2",
+                    "g1": "C",
+                    "g2": "3",
+                    "b1": "9",
+                    "b2": "A",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 2,
+                    "g": 195,
+                    "b": 154
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 167,
+                    "s": 98,
+                    "l": 39
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 99,
+                    "m": 0,
+                    "y": 21,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A blue color from the Turquoise Harmony palette."
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "U3P83PAA",
+        "name": "Lime Cream",
+        "other-names": [
+            {
+                "name": "Lime Cream",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "D",
+                    "r2": "9",
+                    "g1": "E",
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 217,
+                    "g": 237,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 73,
+                    "s": 72,
+                    "l": 75
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 8,
+                    "m": 0,
+                    "y": 38,
+                    "k": 7
+                }
+            }
+        },
+        "description": "A green color from the Meadow Green palette."
+    }
+]

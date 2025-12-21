@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "NUZXTDAA",
+        "name": "Hunter Green",
+        "other-names": [
+            {
+                "name": "Hunter Green",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "3",
+                    "r2": "1",
+                    "g1": "5",
+                    "g2": "7",
+                    "b1": "2",
+                    "b2": "C",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 49,
+                    "g": 87,
+                    "b": 44
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 113,
+                    "s": 33,
+                    "l": 26
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 44,
+                    "m": 0,
+                    "y": 49,
+                    "k": 66
+                }
+            }
+        },
+        "description": "A green color from the Leafy Green Garden palette."
+    }
+]

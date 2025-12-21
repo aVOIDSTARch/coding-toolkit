@@ -17,6 +17,8 @@ Thumbs.db
 
 # Directories
 color-server/
+theme-generator/
+ui-component-factory/
 
 # Windows
 Thumbs.db

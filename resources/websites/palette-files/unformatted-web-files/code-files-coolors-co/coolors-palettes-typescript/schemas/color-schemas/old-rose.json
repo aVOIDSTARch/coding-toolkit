@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "U37ZDNAA",
+        "name": "Old Rose",
+        "other-names": [
+            {
+                "name": "Old Rose",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "3",
+                    "g1": "7",
+                    "g2": "D",
+                    "b1": "9",
+                    "b2": "2",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 195,
+                    "g": 125,
+                    "b": 146
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 342,
+                    "s": 37,
+                    "l": 63
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 36,
+                    "y": 25,
+                    "k": 24
+                }
+            }
+        },
+        "description": "A red color from the Whimsy Chic palette."
+    }
+]

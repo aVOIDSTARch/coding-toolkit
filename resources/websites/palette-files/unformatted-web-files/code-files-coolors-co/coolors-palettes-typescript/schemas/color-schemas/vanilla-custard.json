@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "ZMCQLQAA",
+        "name": "Vanilla Custard",
+        "other-names": [
+            {
+                "name": "Vanilla Custard",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Yellow Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "E",
+                    "r2": "A",
+                    "g1": "E",
+                    "g2": "2",
+                    "b1": "B",
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 234,
+                    "g": 226,
+                    "b": 183
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 51,
+                    "s": 55,
+                    "l": 82
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 3,
+                    "y": 22,
+                    "k": 8
+                }
+            }
+        },
+        "description": "A yellow color from the Warm Autumn Glow palette."
+    }
+]

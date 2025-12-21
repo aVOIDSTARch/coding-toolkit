@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "5VVDCCAA",
+        "name": "Jet Black",
+        "other-names": [
+            {
+                "name": "Jet Black",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Blue Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "2",
+                    "r2": "2",
+                    "g1": "3",
+                    "g2": "3",
+                    "b1": "3",
+                    "b2": "B",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 34,
+                    "g": 51,
+                    "b": 59
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 199,
+                    "s": 27,
+                    "l": 18
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 42,
+                    "m": 14,
+                    "y": 0,
+                    "k": 77
+                }
+            }
+        },
+        "description": "A blue color from the Neutral Earth Tones palette."
+    }
+]

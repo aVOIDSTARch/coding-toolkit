@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "QQ49TRAA",
+        "name": "Honeydew",
+        "other-names": [
+            {
+                "name": "Honeydew",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "White Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "F",
+                    "r2": "1",
+                    "g1": "F",
+                    "g2": "A",
+                    "b1": "E",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 241,
+                    "g": 250,
+                    "b": 238
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 105,
+                    "s": 55,
+                    "l": 96
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 4,
+                    "m": 0,
+                    "y": 5,
+                    "k": 2
+                }
+            }
+        },
+        "description": "A white color from the Muted American palette."
+    }
+]

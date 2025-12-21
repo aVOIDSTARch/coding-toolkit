@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "2KNJ4KAA",
+        "name": "Lilac Ash",
+        "other-names": [
+            {
+                "name": "Lilac Ash",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Grey Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "9",
+                    "r2": "A",
+                    "g1": "8",
+                    "g2": "C",
+                    "b1": "9",
+                    "b2": "8",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 154,
+                    "g": 140,
+                    "b": 152
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 309,
+                    "s": 6,
+                    "l": 58
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 9,
+                    "y": 1,
+                    "k": 40
+                }
+            }
+        },
+        "description": "A grey color from the Soft Lavender palette."
+    }
+]

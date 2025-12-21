@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "VBLUVBAA",
+        "name": "Evergreen",
+        "other-names": [
+            {
+                "name": "Evergreen",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "1",
+                    "r2": "3",
+                    "g1": "2",
+                    "g2": "A",
+                    "b1": "1",
+                    "b2": "3",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 19,
+                    "g": 42,
+                    "b": 19
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 120,
+                    "s": 38,
+                    "l": 12
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 55,
+                    "m": 0,
+                    "y": 55,
+                    "k": 84
+                }
+            }
+        },
+        "description": "A green color from the Leafy Green Garden palette."
+    }
+]

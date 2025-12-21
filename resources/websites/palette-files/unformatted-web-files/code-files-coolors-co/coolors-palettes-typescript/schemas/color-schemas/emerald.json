@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "VKJNYHAA",
+        "name": "Emerald",
+        "other-names": [
+            {
+                "name": "Emerald",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Green Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "7",
+                    "r2": "6",
+                    "g1": "C",
+                    "g2": "8",
+                    "b1": "9",
+                    "b2": "3",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 118,
+                    "g": 200,
+                    "b": 147
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 141,
+                    "s": 43,
+                    "l": 62
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 41,
+                    "m": 0,
+                    "y": 27,
+                    "k": 22
+                }
+            }
+        },
+        "description": "A green color from the Meadow Green palette."
+    }
+]

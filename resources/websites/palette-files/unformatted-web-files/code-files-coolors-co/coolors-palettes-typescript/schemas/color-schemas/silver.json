@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "8M8MQNAA",
+        "name": "Silver",
+        "other-names": [
+            {
+                "name": "Silver",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "B",
+                    "g2": "E",
+                    "b1": "B",
+                    "b2": "E",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 190,
+                    "b": 190
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 0,
+                    "s": 14,
+                    "l": 78
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 8,
+                    "y": 8,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A red color from the Vintage Romance palette."
+    }
+]

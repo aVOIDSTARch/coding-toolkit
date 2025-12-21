@@ -1,0 +1,55 @@
+[
+    {
+        "unique-color-id": "ZFCEQNAA",
+        "name": "Amaranth",
+        "other-names": [
+            {
+                "name": "Amaranth",
+                "source": {
+                    "name": "Coolors",
+                    "url": "https://coolors.co"
+                }
+            }
+        ],
+        "naming-source": "Coolors",
+        "nickname": "",
+        "color-family": "Red Shades",
+        "color-codes": {
+            "hex": {
+                "values": {
+                    "r1": "C",
+                    "r2": "E",
+                    "g1": "4",
+                    "g2": "2",
+                    "b1": "5",
+                    "b2": "7",
+                    "a1": "F",
+                    "a2": "F"
+                }
+            },
+            "rgb": {
+                "values": {
+                    "r": 206,
+                    "g": 66,
+                    "b": 87
+                }
+            },
+            "hsl": {
+                "values": {
+                    "h": 351,
+                    "s": 59,
+                    "l": 53
+                }
+            },
+            "cmyk": {
+                "values": {
+                    "c": 0,
+                    "m": 68,
+                    "y": 58,
+                    "k": 19
+                }
+            }
+        },
+        "description": "A red color from the Red Sunburst palette."
+    }
+]
