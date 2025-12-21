@@ -1,0 +1,5 @@
+// Setup vite-preact-daisyui
+
+npm create vite@latest
+
+npm install tailwindcss@latest @tailwindcss/vite@latest daisyui@latest
