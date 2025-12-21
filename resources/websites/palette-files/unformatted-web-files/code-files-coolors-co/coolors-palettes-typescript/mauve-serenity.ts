@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const mauveSerenity: Color[] = [{"name":"Charcoal","hex":"565264","rgb":[86,82,100],"cmyk":[14,18,0,61],"hsb":[253,18,39],"hsl":[253,10,36],"lab":[36,6,-10]},{"name":"Dim Grey","hex":"706677","rgb":[112,102,119],"cmyk":[6,14,0,53],"hsb":[275,14,47],"hsl":[275,8,43],"lab":[45,7,-8]},{"name":"Dusty Mauve","hex":"a6808c","rgb":[166,128,140],"cmyk":[0,23,16,35],"hsb":[341,23,65],"hsl":[341,18,58],"lab":[58,17,-1]},{"name":"Almond Silk","hex":"ccb7ae","rgb":[204,183,174],"cmyk":[0,10,15,20],"hsb":[18,15,80],"hsl":[18,23,74],"lab":[76,6,7]},{"name":"Dust Grey","hex":"d6cfcb","rgb":[214,207,203],"cmyk":[0,3,5,16],"hsb":[22,5,84],"hsl":[22,12,82],"lab":[84,2,3]}];

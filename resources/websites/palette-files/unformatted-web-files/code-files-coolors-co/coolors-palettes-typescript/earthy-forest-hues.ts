@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const earthyForestHues: Color[] = [{"name":"Dust Grey","hex":"dad7cd","rgb":[218,215,205],"cmyk":[0,1,6,15],"hsb":[46,6,85],"hsl":[46,15,83],"lab":[86,-1,5]},{"name":"Dry Sage","hex":"a3b18a","rgb":[163,177,138],"cmyk":[8,0,22,31],"hsb":[82,22,69],"hsl":[82,20,62],"lab":[70,-12,18]},{"name":"Fern","hex":"588157","rgb":[88,129,87],"cmyk":[32,0,33,49],"hsb":[119,33,51],"hsl":[119,19,42],"lab":[50,-23,18]},{"name":"Hunter Green","hex":"3a5a40","rgb":[58,90,64],"cmyk":[36,0,29,65],"hsb":[131,36,35],"hsl":[131,22,29],"lab":[35,-18,11]},{"name":"Pine Teal","hex":"344e41","rgb":[52,78,65],"cmyk":[33,0,17,69],"hsb":[150,33,31],"hsl":[150,20,25],"lab":[31,-13,5]}];

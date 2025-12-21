@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const darkSunset: Color[] = [{"name":"Dark Slate Grey","hex":"335c67","rgb":[51,92,103],"cmyk":[50,11,0,60],"hsb":[193,50,40],"hsl":[193,34,30],"lab":[37,-11,-11]},{"name":"Vanilla Custard","hex":"fff3b0","rgb":[255,243,176],"cmyk":[0,5,31,0],"hsb":[51,31,100],"hsl":[51,100,85],"lab":[95,-6,34]},{"name":"Honey Bronze","hex":"e09f3e","rgb":[224,159,62],"cmyk":[0,29,72,12],"hsb":[36,72,88],"hsl":[36,72,56],"lab":[70,15,58]},{"name":"Brown Red","hex":"9e2a2b","rgb":[158,42,43],"cmyk":[0,73,73,38],"hsb":[359,73,62],"hsl":[359,58,39],"lab":[36,47,28]},{"name":"Night Bordeaux","hex":"540b0e","rgb":[84,11,14],"cmyk":[0,87,83,67],"hsb":[358,87,33],"hsl":[358,77,19],"lab":[16,33,19]}];

@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const neutralEarthTones: Color[] = [{"name":"Black","hex":"0a0908","rgb":[10,9,8],"cmyk":[0,10,20,96],"hsb":[30,20,4],"hsl":[30,11,4],"lab":[3,0,0]},{"name":"Jet Black","hex":"22333b","rgb":[34,51,59],"cmyk":[42,14,0,77],"hsb":[199,42,23],"hsl":[199,27,18],"lab":[20,-4,-7]},{"name":"Almond Cream","hex":"eae0d5","rgb":[234,224,213],"cmyk":[0,4,9,8],"hsb":[31,9,92],"hsl":[31,33,88],"lab":[90,2,7]},{"name":"Khaki Beige","hex":"c6ac8f","rgb":[198,172,143],"cmyk":[0,13,28,22],"hsb":[32,28,78],"hsl":[32,33,67],"lab":[72,5,18]},{"name":"Stone Brown","hex":"5e503f","rgb":[94,80,63],"cmyk":[0,15,33,63],"hsb":[33,33,37],"hsl":[33,20,31],"lab":[35,3,12]}];

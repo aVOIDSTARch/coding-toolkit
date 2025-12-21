@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const pastelHarmony: Color[] = [{"name":"Old Rose","hex":"d88c9a","rgb":[216,140,154],"cmyk":[0,35,29,15],"hsb":[349,35,85],"hsl":[349,49,70],"lab":[66,31,5]},{"name":"Soft Apricot","hex":"f2d0a9","rgb":[242,208,169],"cmyk":[0,14,30,5],"hsb":[32,30,95],"hsl":[32,74,81],"lab":[85,6,24]},{"name":"Almond Cream","hex":"f1e3d3","rgb":[241,227,211],"cmyk":[0,6,12,5],"hsb":[32,12,95],"hsl":[32,52,89],"lab":[91,2,10]},{"name":"Muted Teal","hex":"99c1b9","rgb":[153,193,185],"cmyk":[21,0,4,24],"hsb":[168,21,76],"hsl":[168,24,68],"lab":[75,-15,0]},{"name":"Soft Periwinkle","hex":"8e7dbe","rgb":[142,125,190],"cmyk":[25,34,0,25],"hsb":[256,34,75],"hsl":[256,33,62],"lab":[56,21,-32]}];

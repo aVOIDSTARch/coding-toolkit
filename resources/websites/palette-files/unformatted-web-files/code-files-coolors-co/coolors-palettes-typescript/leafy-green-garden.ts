@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const leafyGreenGarden: Color[] = [{"name":"Evergreen","hex":"132a13","rgb":[19,42,19],"cmyk":[55,0,55,84],"hsb":[120,55,16],"hsl":[120,38,12],"lab":[15,-15,12]},{"name":"Hunter Green","hex":"31572c","rgb":[49,87,44],"cmyk":[44,0,49,66],"hsb":[113,49,34],"hsl":[113,33,26],"lab":[33,-23,21]},{"name":"Fern","hex":"4f772d","rgb":[79,119,45],"cmyk":[34,0,62,53],"hsb":[92,62,47],"hsl":[92,45,32],"lab":[46,-28,36]},{"name":"Palm Leaf","hex":"90a955","rgb":[144,169,85],"cmyk":[15,0,50,34],"hsb":[78,50,66],"hsl":[78,33,50],"lab":[66,-22,40]},{"name":"Lime Cream","hex":"ecf39e","rgb":[236,243,158],"cmyk":[3,0,35,5],"hsb":[65,35,95],"hsl":[65,78,79],"lab":[94,-15,40]}];

@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const oceanSerenity: Color[] = [{"name":"Ink Black","hex":"01161e","rgb":[1,22,30],"cmyk":[97,27,0,88],"hsb":[197,97,12],"hsl":[197,94,6],"lab":[6,-4,-8]},{"name":"Dark Teal","hex":"124559","rgb":[18,69,89],"cmyk":[80,22,0,65],"hsb":[197,80,35],"hsl":[197,66,21],"lab":[27,-9,-17]},{"name":"Air Force Blue","hex":"598392","rgb":[89,131,146],"cmyk":[39,10,0,43],"hsb":[196,39,57],"hsl":[196,24,46],"lab":[52,-10,-13]},{"name":"Ash Grey","hex":"aec3b0","rgb":[174,195,176],"cmyk":[11,0,10,24],"hsb":[126,11,76],"hsl":[126,15,72],"lab":[77,-11,7]},{"name":"Beige","hex":"eff6e0","rgb":[239,246,224],"cmyk":[3,0,9,4],"hsb":[79,9,96],"hsl":[79,55,92],"lab":[96,-6,10]}];

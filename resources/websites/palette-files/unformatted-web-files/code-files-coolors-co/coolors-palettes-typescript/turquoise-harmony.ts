@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const turquoiseHarmony: Color[] = [{"name":"Baltic Blue","hex":"05668d","rgb":[5,102,141],"cmyk":[96,28,0,45],"hsb":[197,96,55],"hsl":[197,93,29],"lab":[40,-10,-28]},{"name":"Teal","hex":"028090","rgb":[2,128,144],"cmyk":[99,11,0,44],"hsb":[187,99,56],"hsl":[187,97,29],"lab":[49,-23,-17]},{"name":"Verdigris","hex":"00a896","rgb":[0,168,150],"cmyk":[100,0,11,34],"hsb":[174,100,66],"hsl":[174,100,33],"lab":[62,-41,-1]},{"name":"Mint Leaf","hex":"02c39a","rgb":[2,195,154],"cmyk":[99,0,21,24],"hsb":[167,99,76],"hsl":[167,98,39],"lab":[70,-51,9]},{"name":"Cream","hex":"f0f3bd","rgb":[240,243,189],"cmyk":[1,0,22,5],"hsb":[63,22,95],"hsl":[63,69,85],"lab":[94,-10,26]}];

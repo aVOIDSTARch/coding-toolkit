@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const oceanPearlDelight: Color[] = [{"name":"Stormy Teal","hex":"006d77","rgb":[0,109,119],"cmyk":[100,8,0,53],"hsb":[185,100,47],"hsl":[185,100,23],"lab":[42,-22,-13]},{"name":"Pearl Aqua","hex":"83c5be","rgb":[131,197,190],"cmyk":[34,0,4,23],"hsb":[174,34,77],"hsl":[174,36,64],"lab":[75,-22,-3]},{"name":"Alice Blue","hex":"edf6f9","rgb":[237,246,249],"cmyk":[5,1,0,2],"hsb":[195,5,98],"hsl":[195,50,95],"lab":[96,-2,-2]},{"name":"Almond Silk","hex":"ffddd2","rgb":[255,221,210],"cmyk":[0,13,18,0],"hsb":[15,18,100],"hsl":[15,100,91],"lab":[91,10,10]},{"name":"Tangerine Dream","hex":"e29578","rgb":[226,149,120],"cmyk":[0,34,47,11],"hsb":[16,47,89],"hsl":[16,65,68],"lab":[69,26,27]}];

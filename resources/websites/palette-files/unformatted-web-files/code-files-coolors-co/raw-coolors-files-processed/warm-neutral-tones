@@ -1,0 +1,34 @@
+- CSV
+
+582f0e,7f4f24,936639,a68a64,b6ad90,c2c5aa,a4ac86,656d4a,414833,333d29
+
+- With #
+
+#582f0e, #7f4f24, #936639, #a68a64, #b6ad90, #c2c5aa, #a4ac86, #656d4a, #414833, #333d29
+
+- Array
+
+["582f0e","7f4f24","936639","a68a64","b6ad90","c2c5aa","a4ac86","656d4a","414833","333d29"]
+
+- Object
+
+{"Dark Walnut":"582f0e","Saddle Brown":"7f4f24","Toffee Brown":"936639","Camel":"a68a64","Khaki Beige":"b6ad90","Dry Sage":"c2c5aa","Dry Sage 2":"a4ac86","Dusty Olive":"656d4a","Ebony":"414833","Charcoal Brown":"333d29"}
+
+- Extended Array
+
+[{"name":"Dark Walnut","hex":"582f0e","rgb":[88,47,14],"cmyk":[0,47,84,65],"hsb":[27,84,35],"hsl":[27,73,20],"lab":[24,16,28]},{"name":"Saddle Brown","hex":"7f4f24","rgb":[127,79,36],"cmyk":[0,38,72,50],"hsb":[28,72,50],"hsl":[28,56,32],"lab":[38,16,33]},{"name":"Toffee Brown","hex":"936639","rgb":[147,102,57],"cmyk":[0,31,61,42],"hsb":[30,61,58],"hsl":[30,44,40],"lab":[47,13,32]},{"name":"Camel","hex":"a68a64","rgb":[166,138,100],"cmyk":[0,17,40,35],"hsb":[35,40,65],"hsl":[35,27,52],"lab":[59,5,24]},{"name":"Khaki Beige","hex":"b6ad90","rgb":[182,173,144],"cmyk":[0,5,21,29],"hsb":[46,21,71],"hsl":[46,21,64],"lab":[71,-2,16]},{"name":"Dry Sage","hex":"c2c5aa","rgb":[194,197,170],"cmyk":[2,0,14,23],"hsb":[67,14,77],"hsl":[67,19,72],"lab":[79,-6,13]},{"name":"Dry Sage","hex":"a4ac86","rgb":[164,172,134],"cmyk":[5,0,22,33],"hsb":[73,22,67],"hsl":[73,19,60],"lab":[69,-9,19]},{"name":"Dusty Olive","hex":"656d4a","rgb":[101,109,74],"cmyk":[7,0,32,57],"hsb":[74,32,43],"hsl":[74,19,36],"lab":[45,-10,19]},{"name":"Ebony","hex":"414833","rgb":[65,72,51],"cmyk":[10,0,29,72],"hsb":[80,29,28],"hsl":[80,17,24],"lab":[29,-7,12]},{"name":"Charcoal Brown","hex":"333d29","rgb":[51,61,41],"cmyk":[16,0,33,76],"hsb":[90,33,24],"hsl":[90,20,20],"lab":[24,-9,11]}]
+
+- XML
+
+<palette>
+  <color name="Dark Walnut" hex="582f0e" r="88" g="47" b="14" />
+  <color name="Saddle Brown" hex="7f4f24" r="127" g="79" b="36" />
+  <color name="Toffee Brown" hex="936639" r="147" g="102" b="57" />
+  <color name="Camel" hex="a68a64" r="166" g="138" b="100" />
+  <color name="Khaki Beige" hex="b6ad90" r="182" g="173" b="144" />
+  <color name="Dry Sage" hex="c2c5aa" r="194" g="197" b="170" />
+  <color name="Dry Sage" hex="a4ac86" r="164" g="172" b="134" />
+  <color name="Dusty Olive" hex="656d4a" r="101" g="109" b="74" />
+  <color name="Ebony" hex="414833" r="65" g="72" b="51" />
+  <color name="Charcoal Brown" hex="333d29" r="51" g="61" b="41" />
+</palette>

@@ -1,0 +1,29 @@
+- CSV
+
+00296b,003f88,00509d,fdc500,ffd500
+
+- With #
+
+#00296b, #003f88, #00509d, #fdc500, #ffd500
+
+- Array
+
+["00296b","003f88","00509d","fdc500","ffd500"]
+
+- Object
+
+{"Imperial Blue":"00296b","French Blue":"003f88","Steel Azure":"00509d","School Bus Yellow":"fdc500","Gold":"ffd500"}
+
+- Extended Array
+
+[{"name":"Imperial Blue","hex":"00296b","rgb":[0,41,107],"cmyk":[100,62,0,58],"hsb":[217,100,42],"hsl":[217,100,21],"lab":[19,16,-42]},{"name":"French Blue","hex":"003f88","rgb":[0,63,136],"cmyk":[100,54,0,47],"hsb":[212,100,53],"hsl":[212,100,27],"lab":[28,13,-46]},{"name":"Steel Azure","hex":"00509d","rgb":[0,80,157],"cmyk":[100,49,0,38],"hsb":[209,100,62],"hsl":[209,100,31],"lab":[34,11,-48]},{"name":"School Bus Yellow","hex":"fdc500","rgb":[253,197,0],"cmyk":[0,22,100,1],"hsb":[47,100,99],"hsl":[47,100,50],"lab":[82,6,84]},{"name":"Gold","hex":"ffd500","rgb":[255,213,0],"cmyk":[0,16,100,0],"hsb":[50,100,100],"hsl":[50,100,50],"lab":[86,-1,87]}]
+
+- XML
+
+<palette>
+  <color name="Imperial Blue" hex="00296b" r="0" g="41" b="107" />
+  <color name="French Blue" hex="003f88" r="0" g="63" b="136" />
+  <color name="Steel Azure" hex="00509d" r="0" g="80" b="157" />
+  <color name="School Bus Yellow" hex="fdc500" r="253" g="197" b="0" />
+  <color name="Gold" hex="ffd500" r="255" g="213" b="0" />
+</palette>

@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const softSands: Color[] = [{"name":"Parchment","hex":"edede9","rgb":[237,237,233],"cmyk":[0,0,2,7],"hsb":[60,2,93],"hsl":[60,10,92],"lab":[94,-1,2]},{"name":"Dust Grey","hex":"d6ccc2","rgb":[214,204,194],"cmyk":[0,5,9,16],"hsb":[30,9,84],"hsl":[30,20,80],"lab":[83,2,6]},{"name":"Linen","hex":"f5ebe0","rgb":[245,235,224],"cmyk":[0,4,9,4],"hsb":[31,9,96],"hsl":[31,51,92],"lab":[94,2,7]},{"name":"Powder Petal","hex":"e3d5ca","rgb":[227,213,202],"cmyk":[0,6,11,11],"hsb":[26,11,89],"hsl":[26,31,84],"lab":[86,3,7]},{"name":"Almond Silk","hex":"d5bdaf","rgb":[213,189,175],"cmyk":[0,11,18,16],"hsb":[22,18,84],"hsl":[22,31,76],"lab":[78,6,10]}];

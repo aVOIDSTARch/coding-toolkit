@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const mutedAmerican: Color[] = [{"name":"Punch Red","hex":"e63946","rgb":[230,57,70],"cmyk":[0,75,70,10],"hsb":[355,75,90],"hsl":[355,78,56],"lab":[52,66,34]},{"name":"Honeydew","hex":"f1faee","rgb":[241,250,238],"cmyk":[4,0,5,2],"hsb":[105,5,98],"hsl":[105,55,96],"lab":[97,-5,5]},{"name":"Frosted Blue","hex":"a8dadc","rgb":[168,218,220],"cmyk":[24,1,0,14],"hsb":[182,24,86],"hsl":[182,43,76],"lab":[84,-16,-6]},{"name":"Cerulean","hex":"457b9d","rgb":[69,123,157],"cmyk":[56,22,0,38],"hsb":[203,56,62],"hsl":[203,39,44],"lab":[49,-8,-24]},{"name":"Oxford Navy","hex":"1d3557","rgb":[29,53,87],"cmyk":[67,39,0,66],"hsb":[215,67,34],"hsl":[215,50,23],"lab":[22,3,-23]}];

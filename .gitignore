@@ -15,6 +15,9 @@
 ehthumbs.db
 Thumbs.db
 
+# Directories
+color-server/
+
 # Windows
 Thumbs.db
 ehthumbs.db

@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const warmEarthTones: Color[] = [{"name":"Blood Red","hex":"8c1c13","rgb":[140,28,19],"cmyk":[0,80,86,45],"hsb":[4,86,55],"hsl":[4,76,31],"lab":[31,46,35]},{"name":"Blushed Brick","hex":"bf4342","rgb":[191,67,66],"cmyk":[0,65,65,25],"hsb":[0,65,75],"hsl":[0,49,50],"lab":[46,50,28]},{"name":"Almond Cream","hex":"e7d7c1","rgb":[231,215,193],"cmyk":[0,7,16,9],"hsb":[35,16,91],"hsl":[35,44,83],"lab":[87,2,13]},{"name":"Dusty Taupe","hex":"a78a7f","rgb":[167,138,127],"cmyk":[0,17,24,35],"hsb":[16,24,65],"hsl":[16,19,58],"lab":[60,9,10]},{"name":"Mauve Bark","hex":"735751","rgb":[115,87,81],"cmyk":[0,24,30,55],"hsb":[11,30,45],"hsl":[11,17,38],"lab":[40,11,8]}];

@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const midnightSky: Color[] = [{"name":"Imperial Blue","hex":"00296b","rgb":[0,41,107],"cmyk":[100,62,0,58],"hsb":[217,100,42],"hsl":[217,100,21],"lab":[19,16,-42]},{"name":"French Blue","hex":"003f88","rgb":[0,63,136],"cmyk":[100,54,0,47],"hsb":[212,100,53],"hsl":[212,100,27],"lab":[28,13,-46]},{"name":"Steel Azure","hex":"00509d","rgb":[0,80,157],"cmyk":[100,49,0,38],"hsb":[209,100,62],"hsl":[209,100,31],"lab":[34,11,-48]},{"name":"School Bus Yellow","hex":"fdc500","rgb":[253,197,0],"cmyk":[0,22,100,1],"hsb":[47,100,99],"hsl":[47,100,50],"lab":[82,6,84]},{"name":"Gold","hex":"ffd500","rgb":[255,213,0],"cmyk":[0,16,100,0],"hsb":[50,100,100],"hsl":[50,100,50],"lab":[86,-1,87]}];

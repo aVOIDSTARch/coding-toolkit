@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const softForest: Color[] = [{"name":"Tea Green","hex":"ccd5ae","rgb":[204,213,174],"cmyk":[4,0,18,16],"hsb":[74,18,84],"hsl":[74,32,76],"lab":[84,-10,18]},{"name":"Beige","hex":"e9edc9","rgb":[233,237,201],"cmyk":[2,0,15,7],"hsb":[67,15,93],"hsl":[67,50,86],"lab":[93,-7,17]},{"name":"Cornsilk","hex":"fefae0","rgb":[254,250,224],"cmyk":[0,2,12,0],"hsb":[52,12,100],"hsl":[52,94,94],"lab":[98,-3,13]},{"name":"Papaya Whip","hex":"faedcd","rgb":[250,237,205],"cmyk":[0,5,18,2],"hsb":[43,18,98],"hsl":[43,82,89],"lab":[94,-1,17]},{"name":"Light Bronze","hex":"d4a373","rgb":[212,163,115],"cmyk":[0,23,46,17],"hsb":[30,46,83],"hsl":[30,53,64],"lab":[70,12,32]}];

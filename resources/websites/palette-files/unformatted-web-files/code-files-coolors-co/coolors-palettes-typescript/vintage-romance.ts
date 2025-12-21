@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const vintageRomance: Color[] = [{"name":"Silver","hex":"cebebe","rgb":[206,190,190],"cmyk":[0,8,8,19],"hsb":[0,8,81],"hsl":[0,14,78],"lab":[78,6,2]},{"name":"Bone","hex":"ece2d0","rgb":[236,226,208],"cmyk":[0,4,12,7],"hsb":[39,12,93],"hsl":[39,42,87],"lab":[90,0,10]},{"name":"Almond Silk","hex":"d5b9b2","rgb":[213,185,178],"cmyk":[0,13,16,16],"hsb":[12,16,84],"hsl":[12,29,77],"lab":[77,9,7]},{"name":"Smoky Rose","hex":"a26769","rgb":[162,103,105],"cmyk":[0,36,35,36],"hsb":[358,36,64],"hsl":[358,24,52],"lab":[50,24,9]},{"name":"Wine Plum","hex":"6d2e46","rgb":[109,46,70],"cmyk":[0,58,36,57],"hsb":[337,58,43],"hsl":[337,41,30],"lab":[29,31,-1]}];

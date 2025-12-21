@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const darkForest: Color[] = [{"name":"Vanilla Cream","hex":"f0ead2","rgb":[240,234,210],"cmyk":[0,3,13,6],"hsb":[48,13,94],"hsl":[48,50,88],"lab":[93,-2,12]},{"name":"Tea Green","hex":"dde5b6","rgb":[221,229,182],"cmyk":[3,0,21,10],"hsb":[70,21,90],"hsl":[70,47,81],"lab":[89,-10,22]},{"name":"Muted Olive","hex":"adc178","rgb":[173,193,120],"cmyk":[10,0,38,24],"hsb":[76,38,76],"hsl":[76,37,61],"lab":[75,-19,35]},{"name":"Faded Copper","hex":"a98467","rgb":[169,132,103],"cmyk":[0,22,39,34],"hsb":[26,39,66],"hsl":[26,28,53],"lab":[58,10,21]},{"name":"Ash Brown","hex":"6c584c","rgb":[108,88,76],"cmyk":[0,19,30,58],"hsb":[23,30,42],"hsl":[23,17,36],"lab":[39,6,10]}];

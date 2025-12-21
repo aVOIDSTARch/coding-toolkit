@@ -1,0 +1,34 @@
+- CSV
+
+012a4a,013a63,01497c,014f86,2a6f97,2c7da0,468faf,61a5c2,89c2d9,a9d6e5
+
+- With #
+
+#012a4a, #013a63, #01497c, #014f86, #2a6f97, #2c7da0, #468faf, #61a5c2, #89c2d9, #a9d6e5
+
+- Array
+
+["012a4a","013a63","01497c","014f86","2a6f97","2c7da0","468faf","61a5c2","89c2d9","a9d6e5"]
+
+- Object
+
+{"Deep Space Blue":"012a4a","Yale Blue":"013a63","Yale Blue 2":"01497c","Yale Blue 3":"014f86","Rich Cerulean":"2a6f97","Cerulean":"2c7da0","Air Force Blue":"468faf","Steel Blue":"61a5c2","Sky Blue (Light)":"89c2d9","Light Blue":"a9d6e5"}
+
+- Extended Array
+
+[{"name":"Deep Space Blue","hex":"012a4a","rgb":[1,42,74],"cmyk":[99,43,0,71],"hsb":[206,99,29],"hsl":[206,97,15],"lab":[16,1,-24]},{"name":"Yale Blue","hex":"013a63","rgb":[1,58,99],"cmyk":[99,41,0,61],"hsb":[205,99,39],"hsl":[205,98,20],"lab":[23,1,-29]},{"name":"Yale Blue","hex":"01497c","rgb":[1,73,124],"cmyk":[99,41,0,51],"hsb":[205,99,49],"hsl":[205,98,25],"lab":[30,1,-34]},{"name":"Yale Blue","hex":"014f86","rgb":[1,79,134],"cmyk":[99,41,0,47],"hsb":[205,99,53],"hsl":[205,99,26],"lab":[33,2,-36]},{"name":"Rich Cerulean","hex":"2a6f97","rgb":[42,111,151],"cmyk":[72,26,0,41],"hsb":[202,72,59],"hsl":[202,56,38],"lab":[44,-8,-28]},{"name":"Cerulean","hex":"2c7da0","rgb":[44,125,160],"cmyk":[72,22,0,37],"hsb":[198,73,63],"hsl":[198,57,40],"lab":[49,-12,-26]},{"name":"Air Force Blue","hex":"468faf","rgb":[70,143,175],"cmyk":[60,18,0,31],"hsb":[198,60,69],"hsl":[198,43,48],"lab":[56,-13,-24]},{"name":"Steel Blue","hex":"61a5c2","rgb":[97,165,194],"cmyk":[50,15,0,24],"hsb":[198,50,76],"hsl":[198,44,57],"lab":[64,-14,-22]},{"name":"Sky Blue (Light)","hex":"89c2d9","rgb":[137,194,217],"cmyk":[37,11,0,15],"hsb":[197,37,85],"hsl":[197,51,69],"lab":[75,-13,-17]},{"name":"Light Blue","hex":"a9d6e5","rgb":[169,214,229],"cmyk":[26,7,0,10],"hsb":[195,26,90],"hsl":[195,54,78],"lab":[83,-11,-12]}]
+
+- XML
+
+<palette>
+  <color name="Deep Space Blue" hex="012a4a" r="1" g="42" b="74" />
+  <color name="Yale Blue" hex="013a63" r="1" g="58" b="99" />
+  <color name="Yale Blue" hex="01497c" r="1" g="73" b="124" />
+  <color name="Yale Blue" hex="014f86" r="1" g="79" b="134" />
+  <color name="Rich Cerulean" hex="2a6f97" r="42" g="111" b="151" />
+  <color name="Cerulean" hex="2c7da0" r="44" g="125" b="160" />
+  <color name="Air Force Blue" hex="468faf" r="70" g="143" b="175" />
+  <color name="Steel Blue" hex="61a5c2" r="97" g="165" b="194" />
+  <color name="Sky Blue (Light)" hex="89c2d9" r="137" g="194" b="217" />
+  <color name="Light Blue" hex="a9d6e5" r="169" g="214" b="229" />
+</palette>

@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const warmAutumnGlow: Color[] = [{"name":"Deep Space Blue","hex":"003049","rgb":[0,48,73],"cmyk":[100,34,0,71],"hsb":[201,100,29],"hsl":[201,100,14],"lab":[18,-4,-20]},{"name":"Flag Red","hex":"d62828","rgb":[214,40,40],"cmyk":[0,81,81,16],"hsb":[0,81,84],"hsl":[0,69,50],"lab":[47,65,45]},{"name":"Vivid Tangerine","hex":"f77f00","rgb":[247,127,0],"cmyk":[0,49,100,3],"hsb":[31,100,97],"hsl":[31,100,48],"lab":[66,40,73]},{"name":"Sunflower Gold","hex":"fcbf49","rgb":[252,191,73],"cmyk":[0,24,71,1],"hsb":[40,71,99],"hsl":[40,97,64],"lab":[81,11,65]},{"name":"Vanilla Custard","hex":"eae2b7","rgb":[234,226,183],"cmyk":[0,3,22,8],"hsb":[51,22,92],"hsl":[51,55,82],"lab":[90,-4,22]}];

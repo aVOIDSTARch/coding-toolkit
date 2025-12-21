@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const softLavender: Color[] = [{"name":"Space Indigo","hex":"22223b","rgb":[34,34,59],"cmyk":[42,42,0,77],"hsb":[240,42,23],"hsl":[240,27,18],"lab":[14,7,-16]},{"name":"Dusty Grape","hex":"4a4e69","rgb":[74,78,105],"cmyk":[30,26,0,59],"hsb":[232,30,41],"hsl":[232,17,35],"lab":[34,5,-16]},{"name":"Lilac Ash","hex":"9a8c98","rgb":[154,140,152],"cmyk":[0,9,1,40],"hsb":[309,9,60],"hsl":[309,6,58],"lab":[60,7,-4]},{"name":"Almond Silk","hex":"c9ada7","rgb":[201,173,167],"cmyk":[0,14,17,21],"hsb":[11,17,79],"hsl":[11,24,72],"lab":[73,9,7]},{"name":"Parchment","hex":"f2e9e4","rgb":[242,233,228],"cmyk":[0,4,6,5],"hsb":[21,6,95],"hsl":[21,35,92],"lab":[93,2,3]}];

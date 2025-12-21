@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const whisperingIvoryShore: Color[] = [{"name":"Parchment","hex":"f6f2f0","rgb":[246,242,240],"cmyk":[0,2,2,4],"hsb":[20,2,96],"hsl":[20,25,95],"lab":[96,1,1]},{"name":"Seashell","hex":"f3e7e4","rgb":[243,231,228],"cmyk":[0,5,6,5],"hsb":[12,6,95],"hsl":[12,38,92],"lab":[92,4,3]},{"name":"Almond Silk","hex":"e7d1c9","rgb":[231,209,201],"cmyk":[0,10,13,9],"hsb":[16,13,91],"hsl":[16,38,85],"lab":[85,6,7]},{"name":"Linen","hex":"f1e7dd","rgb":[241,231,221],"cmyk":[0,4,8,5],"hsb":[30,8,95],"hsl":[30,42,91],"lab":[92,2,6]},{"name":"Desert Sand","hex":"d0b49f","rgb":[208,180,159],"cmyk":[0,13,24,18],"hsb":[26,24,82],"hsl":[26,34,72],"lab":[75,7,14]}];

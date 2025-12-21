@@ -1,0 +1,33 @@
+- CSV
+
+d8f3dc,b7e4c7,95d5b2,74c69d,52b788,40916c,2d6a4f,1b4332,081c15
+
+- With #
+
+#d8f3dc, #b7e4c7, #95d5b2, #74c69d, #52b788, #40916c, #2d6a4f, #1b4332, #081c15
+
+- Array
+
+["d8f3dc","b7e4c7","95d5b2","74c69d","52b788","40916c","2d6a4f","1b4332","081c15"]
+
+- Object
+
+{"Frosted Mint":"d8f3dc","Celadon":"b7e4c7","Celadon 2":"95d5b2","Mint Leaf":"74c69d","Mint Leaf 2":"52b788","Sea Green":"40916c","Dark Emerald":"2d6a4f","Pine Teal":"1b4332","Evergreen":"081c15"}
+
+- Extended Array
+
+[{"name":"Frosted Mint","hex":"d8f3dc","rgb":[216,243,220],"cmyk":[11,0,9,5],"hsb":[129,11,95],"hsl":[129,53,90],"lab":[93,-13,8]},{"name":"Celadon","hex":"b7e4c7","rgb":[183,228,199],"cmyk":[20,0,13,11],"hsb":[141,20,89],"hsl":[141,45,81],"lab":[87,-20,9]},{"name":"Celadon","hex":"95d5b2","rgb":[149,213,178],"cmyk":[30,0,16,16],"hsb":[147,30,84],"hsl":[147,43,71],"lab":[80,-28,11]},{"name":"Mint Leaf","hex":"74c69d","rgb":[116,198,157],"cmyk":[41,0,21,22],"hsb":[150,41,78],"hsl":[150,42,62],"lab":[74,-34,13]},{"name":"Mint Leaf","hex":"52b788","rgb":[82,183,136],"cmyk":[55,0,26,28],"hsb":[152,55,72],"hsl":[152,41,52],"lab":[68,-41,15]},{"name":"Sea Green","hex":"40916c","rgb":[64,145,108],"cmyk":[56,0,26,43],"hsb":[153,56,57],"hsl":[153,39,41],"lab":[54,-34,12]},{"name":"Dark Emerald","hex":"2d6a4f","rgb":[45,106,79],"cmyk":[58,0,25,58],"hsb":[153,58,42],"hsl":[153,40,30],"lab":[40,-27,9]},{"name":"Pine Teal","hex":"1b4332","rgb":[27,67,50],"cmyk":[60,0,25,74],"hsb":[154,60,26],"hsl":[155,43,18],"lab":[25,-19,6]},{"name":"Evergreen","hex":"081c15","rgb":[8,28,21],"cmyk":[71,0,25,89],"hsb":[159,71,11],"hsl":[159,56,7],"lab":[8,-10,2]}]
+
+- XML
+
+<palette>
+  <color name="Frosted Mint" hex="d8f3dc" r="216" g="243" b="220" />
+  <color name="Celadon" hex="b7e4c7" r="183" g="228" b="199" />
+  <color name="Celadon" hex="95d5b2" r="149" g="213" b="178" />
+  <color name="Mint Leaf" hex="74c69d" r="116" g="198" b="157" />
+  <color name="Mint Leaf" hex="52b788" r="82" g="183" b="136" />
+  <color name="Sea Green" hex="40916c" r="64" g="145" b="108" />
+  <color name="Dark Emerald" hex="2d6a4f" r="45" g="106" b="79" />
+  <color name="Pine Teal" hex="1b4332" r="27" g="67" b="50" />
+  <color name="Evergreen" hex="081c15" r="8" g="28" b="21" />
+</palette>

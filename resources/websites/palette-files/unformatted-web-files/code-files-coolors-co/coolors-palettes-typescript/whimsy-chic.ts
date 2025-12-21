@@ -1,0 +1,3 @@
+import type { Color } from './coolors-palette';
+
+export const whimsyChic: Color[] = [{"name":"Ash Grey","hex":"aeb4a9","rgb":[174,180,169],"cmyk":[3,0,6,29],"hsb":[93,6,71],"hsl":[93,7,68],"lab":[73,-4,5]},{"name":"Almond Silk","hex":"e0c1b3","rgb":[224,193,179],"cmyk":[0,14,20,12],"hsb":[19,20,88],"hsl":[19,42,79],"lab":[80,9,11]},{"name":"Rosy Taupe","hex":"d89a9e","rgb":[216,154,158],"cmyk":[0,29,27,15],"hsb":[356,29,85],"hsl":[356,44,73],"lab":[70,24,7]},{"name":"Old Rose","hex":"c37d92","rgb":[195,125,146],"cmyk":[0,36,25,24],"hsb":[342,36,76],"hsl":[342,37,63],"lab":[60,30,0]},{"name":"Smoky Rose","hex":"846267","rgb":[132,98,103],"cmyk":[0,26,22,48],"hsb":[351,26,52],"hsl":[351,15,45],"lab":[45,15,3]}];

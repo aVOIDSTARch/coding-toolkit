@@ -1,0 +1,34 @@
+- CSV
+
+03071e,370617,6a040f,9d0208,d00000,dc2f02,e85d04,f48c06,faa307,ffba08
+
+- With #
+
+#03071e, #370617, #6a040f, #9d0208, #d00000, #dc2f02, #e85d04, #f48c06, #faa307, #ffba08
+
+- Array
+
+["03071e","370617","6a040f","9d0208","d00000","dc2f02","e85d04","f48c06","faa307","ffba08"]
+
+- Object
+
+{"Ink Black":"03071e","Night Bordeaux":"370617","Black Cherry":"6a040f","Oxblood":"9d0208","Brick Ember":"d00000","Red Ochre":"dc2f02","Cayenne Red":"e85d04","Deep Saffron":"f48c06","Orange":"faa307","Amber Flame":"ffba08"}
+
+- Extended Array
+
+[{"name":"Ink Black","hex":"03071e","rgb":[3,7,30],"cmyk":[90,77,0,88],"hsb":[231,90,12],"hsl":[231,82,6],"lab":[2,4,-14]},{"name":"Night Bordeaux","hex":"370617","rgb":[55,6,23],"cmyk":[0,89,58,78],"hsb":[339,89,22],"hsl":[339,80,12],"lab":[9,25,3]},{"name":"Black Cherry","hex":"6a040f","rgb":[106,4,15],"cmyk":[0,96,86,58],"hsb":[354,96,42],"hsl":[354,93,22],"lab":[21,41,25]},{"name":"Oxblood","hex":"9d0208","rgb":[157,2,8],"cmyk":[0,99,95,38],"hsb":[358,99,62],"hsl":[358,97,31],"lab":[32,56,43]},{"name":"Brick Ember","hex":"d00000","rgb":[208,0,0],"cmyk":[0,100,100,18],"hsb":[0,100,82],"hsl":[0,100,41],"lab":[43,69,58]},{"name":"Red Ochre","hex":"dc2f02","rgb":[220,47,2],"cmyk":[0,79,99,14],"hsb":[12,99,86],"hsl":[12,98,44],"lab":[49,64,61]},{"name":"Cayenne Red","hex":"e85d04","rgb":[232,93,4],"cmyk":[0,60,98,9],"hsb":[23,98,91],"hsl":[23,97,46],"lab":[57,51,66]},{"name":"Deep Saffron","hex":"f48c06","rgb":[244,140,6],"cmyk":[0,43,98,4],"hsb":[34,98,96],"hsl":[34,95,49],"lab":[68,32,73]},{"name":"Orange","hex":"faa307","rgb":[250,163,7],"cmyk":[0,35,97,2],"hsb":[39,97,98],"hsl":[39,96,50],"lab":[74,23,77]},{"name":"Amber Flame","hex":"ffba08","rgb":[255,186,8],"cmyk":[0,27,97,0],"hsb":[43,97,100],"hsl":[43,100,52],"lab":[80,13,81]}]
+
+- XML
+
+<palette>
+  <color name="Ink Black" hex="03071e" r="3" g="7" b="30" />
+  <color name="Night Bordeaux" hex="370617" r="55" g="6" b="23" />
+  <color name="Black Cherry" hex="6a040f" r="106" g="4" b="15" />
+  <color name="Oxblood" hex="9d0208" r="157" g="2" b="8" />
+  <color name="Brick Ember" hex="d00000" r="208" g="0" b="0" />
+  <color name="Red Ochre" hex="dc2f02" r="220" g="47" b="2" />
+  <color name="Cayenne Red" hex="e85d04" r="232" g="93" b="4" />
+  <color name="Deep Saffron" hex="f48c06" r="244" g="140" b="6" />
+  <color name="Orange" hex="faa307" r="250" g="163" b="7" />
+  <color name="Amber Flame" hex="ffba08" r="255" g="186" b="8" />
+</palette>
